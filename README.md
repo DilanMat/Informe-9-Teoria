@@ -24,6 +24,7 @@ FECHA
 30 de Agosto del 2022
 
 PRINCIPIOS DE CIRCUITOS ELECTRICOS FLOYD
+
 1.	TEMA: Principios de circuitos eléctricos Floyd del capítulo 17 y 18 con ejercicios pares.
 
 2.	OBJETIVO:
@@ -40,6 +41,7 @@ Analizar y desarrollar el informe de inductores y transformadores interviniendo 
 
 •	Comprender y desarrollar correctamente los ejercicios planteados para el capítulo 17 y 18 del libro de Floyd, aplicando los conceptos y fórmulas de circuitos en serie, paralelo,serie-paralelo y ley de Ohm básicas para la resolución de estos.
  
+ 
  3.	MARCO TEORICO
  
  Figura 2
