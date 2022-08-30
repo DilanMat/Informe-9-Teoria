@@ -42,6 +42,21 @@ Analizar y desarrollar el informe de inductores y transformadores interviniendo 
  
  3.	MARCO TEORICO
  
+ Figura 2
+ 
+Circuitos RLC y Resonancia
+ 
+ ![image](https://user-images.githubusercontent.com/104999420/187476254-a08008f0-d2c8-485c-b9aa-0b61e772fd25.png)
+
+Nota; En la siguiente imagen se muestra un resumen sobre el circuito RLC y Resonancia.
+
+Figura 3
+
+Filtros Pasabajas
+
+![image](https://user-images.githubusercontent.com/104999420/187476373-c83462db-093c-49f9-8b5e-0b8f3abbe28e.png)
+
+Nota; En la siguiente imagen se muestra un resumen sobre las característas de filtro pasabajas.
  
  4.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS DE PROBLEMAS
  
@@ -224,12 +239,20 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/104999420/187349123-3339c2af-be99-49df-b90b-23c5da48dd3b.png">
 
-1.	CONCLUSIÓNES 
-•	Los conceptos leídos en el capítulo 17 y 18 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular circuitos RC en serie-paralelo y también RL.
-•	Después de la lectura de los capítulos 15 y 16 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema.
-•	 Haciendo uso de los conceptos de análisis a la corriente alterna, a voltaje alterno y capacitores, se fue resolviendo de manera correcta los problemas planteados en los capítulos 15 y 16 de Floyd, para la resolución de estos se aplicó los conocimientos ya visto antes de circuitos en serie, paralelo y serie-paralelo, solo que interviniendo temas de circuito en RC Y RL.
+5. Videos 
 
-6.	BLIBIOGRAFÍA
+
+
+6.	CONCLUSIÓNES 
+
+•	Los conceptos leídos en el capítulo 17 y 18 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular circuitos RLC y resonancia en serie, paralelo y serie-paralelo y también se aprendió mucho sobre los filtros pasabajas.
+
+•	Después de la lectura de los capítulos 17 y 18 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema.
+
+•	 Haciendo uso de los conceptos de análisis de circuito serie, paralelo, serie-paralelo, ley de Ohm y leyes de Kirchoff en el tema de circuitos en RLC se pude resolver los problemas propuestas en el capitulo 17 y 18 del libro de Floyd ya que son temas muy complejos y abarcan la materia vista de capitulos anteriores, por lo que el entendimiento de estos temas y la practica de estos nos ayudan muchisimo para saber como resolver un problema de manera correcta como se realizo en el informe.
+
+7.	BLIBIOGRAFÍA
+
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
 
