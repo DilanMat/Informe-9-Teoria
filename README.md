@@ -148,7 +148,7 @@ PARTE 3: CIRCUITOS EN SERIE-PARALELO
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/104999420/187348036-71fc41b0-8cbc-4a29-adc6-18cfb012729e.png">
 
 
-* 38. Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Ω.
+38. Diseñe una red resonante en paralelo usando una sola bobina y capacitores seleccionables mediante un interruptor para producir las siguientes frecuencias resonantes: 8 MHz, 9 MHz, 10 MHz, y 11 MHz. Suponga una bobina de 10 mH con resistencia de devanado de 5 Ω.
 
 <img width="227" alt="image" src="https://user-images.githubusercontent.com/104999420/187348071-d2337ec3-bfa2-4d57-ba6b-ddd331389e36.png">
 
@@ -160,7 +160,7 @@ SECCIÓN 17–8 Ancho de banda de circuitos resonantes
 
 <img width="223" alt="image" src="https://user-images.githubusercontent.com/104999420/187348118-0873e8be-6709-4113-89db-de41901c9577.png">
 
-* 42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
+42. En un circuito tanque, ¿qué valores de L y C deberán utilizarse para obtener una frecuencia resonante de 8 kHz? El ancho de banda debe ser de 800 Hz. La resistencia de devanado del circuito es de 10 Ω.
 
 <img width="349" alt="image" src="https://user-images.githubusercontent.com/104999420/187348143-3cd3460d-d27f-4393-8331-9b4f2f982938.png">
 
@@ -201,7 +201,7 @@ SECCIÓN 18–2 Filtros pasaaltas
 
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/104999420/187348482-b07d62ba-8760-40f5-9ff9-46a497906643.png">
 
-*16. Determine f_c para cada una de las posiciones del interruptor en la siguiente figura.
+16. Determine f_c para cada una de las posiciones del interruptor en la siguiente figura.
 
 <img width="262" alt="image" src="https://user-images.githubusercontent.com/104999420/187348526-dc7ac88e-d898-40df-ac4d-b85bf62d853e.png">
 
@@ -221,7 +221,7 @@ SECCIÓN 18–3 Filtros pasabanda
 
 <img width="289" alt="image" src="https://user-images.githubusercontent.com/104999420/187348652-85f7fa68-abb1-4fcd-b82b-6ae32065351d.png">
 
-*22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la siguiente figura ¿Se traslapan algunas de las respuestas? Suponga que RW  0 Ω para cada bobina.
+22. Determine la separación de las frecuencias centrales en todas las posiciones del interruptor de la siguiente figura ¿Se traslapan algunas de las respuestas? Suponga que RW  0 Ω para cada bobina.
 
 <img width="297" alt="image" src="https://user-images.githubusercontent.com/104999420/187348687-1f4f4808-c236-4d83-92e2-b32788f88adb.png">
 
