@@ -224,6 +224,16 @@ SECCIÓN 18–4 Filtros Rechazabanda
 
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/104999420/187349123-3339c2af-be99-49df-b90b-23c5da48dd3b.png">
 
+1.	CONCLUSIÓNES 
+•	Los conceptos leídos en el capítulo 17 y 18 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el cómo aprender a calcular circuitos RC en serie-paralelo y también RL.
+•	Después de la lectura de los capítulos 15 y 16 del libro de Floyd, se utilizó mentefactos y mapas conceptuales para resumir estos temas, ya que ayudan a ubicar la información de un manera mucho más factible y fácil de entender y así evitando el uso de párrafos grandes que complican el entendimiento del tema.
+•	 Haciendo uso de los conceptos de análisis a la corriente alterna, a voltaje alterno y capacitores, se fue resolviendo de manera correcta los problemas planteados en los capítulos 15 y 16 de Floyd, para la resolución de estos se aplicó los conocimientos ya visto antes de circuitos en serie, paralelo y serie-paralelo, solo que interviniendo temas de circuito en RC Y RL.
+
+6.	BLIBIOGRAFÍA
+Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+
+
+
 
 
 
